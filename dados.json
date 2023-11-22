@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "usuario": "igores2000",
+      "senha": "batatao",
+      "atividades": [],
+      "padroes_de_sono": [],
+      "exames": []
+    },
+    {
+      "id": "2",
+      "usuario": "igores",
+      "senha": "igores",
+      "atividades": [],
+      "padroes_de_sono": [],
+      "exames": []
+    },
+    {
+      "id": "3",
+      "usuario": "igu",
+      "senha": "igu",
+      "atividades": [],
+      "padroes_de_sono": [],
+      "exames": []
+    }
+  ]
+}
